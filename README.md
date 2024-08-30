@@ -18,5 +18,5 @@ Developed a news reader app using Jetpack Compose and latest Android libraries(e
 - Android SDK
 - API keys and google-services.json file configured in the project
 # Deployed URL 
-- Live Chat : [View App](https://drive.google.com/file/d/1EMNyPvuFxVPB21qzHHZgdgQerrhKqwed/view?usp=drive_link)
+- News App : [View App](https://drive.google.com/file/d/1EMNyPvuFxVPB21qzHHZgdgQerrhKqwed/view?usp=drive_link)
 
