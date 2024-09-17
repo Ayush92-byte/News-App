@@ -17,6 +17,8 @@ Developed a news reader app using Jetpack Compose and latest Android libraries(e
 -  Android Studio Arctic Fox (or later)
 - Android SDK
 - API keys and google-services.json file configured in the project
+# Screenshots
+
 # Deployed URL 
 - News App : [View App](https://drive.google.com/file/d/1EMNyPvuFxVPB21qzHHZgdgQerrhKqwed/view?usp=drive_link)
 
