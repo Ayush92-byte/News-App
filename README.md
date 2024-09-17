@@ -18,6 +18,11 @@ Developed a news reader app using Jetpack Compose and latest Android libraries(e
 - Android SDK
 - API keys and google-services.json file configured in the project
 # Screenshots
+![photo1](https://github.com/user-attachments/assets/21c23cc2-2b26-40bf-9621-a2341b254fd6)
+![photo2](https://github.com/user-attachments/assets/c5a67bff-cc37-4d3a-930f-38ddccf245f6)
+![photo3](https://github.com/user-attachments/assets/f7ff5cf9-448f-4964-8ef8-56370aa63ec3)
+![photo4](https://github.com/user-attachments/assets/dcca5763-ead9-4cee-9c9c-0b5013075f6f)
+![photo5](https://github.com/user-attachments/assets/9db94c46-8eca-4e24-b90c-18c168e25b0d)
 
 # Deployed URL 
 - News App : [View App](https://drive.google.com/file/d/1EMNyPvuFxVPB21qzHHZgdgQerrhKqwed/view?usp=drive_link)
